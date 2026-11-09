@@ -10,9 +10,13 @@ I build things from silicon to software. I'm an M.S. EE student at Northwestern 
 
 ## 🆕 New: Saviu
 
-When a disaster hits, an insurer needs to know who to help first. Saviu combines mapped impact zones, SMS check-ins, and policy data into a live priority map, including the people nobody has heard from yet. Field reports update it as they come in.
+After a disaster, cell towers go down and the people who most need help are often the ones who can't reply. Saviu helps State Farm find them first.
 
-🚨 **[Saviu](https://github.com/NateeeXu/UTD_ZERODAY)**: Built by a two-person team at HackUTD 2026 for the State Farm and Spacetime tracks. The geography and demographics are real public data; the households, storms, and replies are simulated.
+🚨 **[Saviu](https://github.com/NateeeXu/UTD_ZERODAY)**: Honorable Mention in the Spacetime track at HackUTD 2026, 5th of 144 teams. Built with one teammate on 50,000+ simulated households.
+
+🏢 **Three connected portals**: State Farm sees every area ranked P0–P2 and dispatches adjusters, adjusters get assigned and recommended visits on their phones, and customers get a message center built to plug into State Farm's app.
+
+🔁 **Automatic escalation**: No reply to a text leads to a phone call within 6 hours, then a field visit and a 911 referral. Any reply stops it.
 
 ---
 
