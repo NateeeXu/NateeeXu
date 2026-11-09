@@ -20,7 +20,7 @@ When a disaster hits, an insurer needs to know who to help first. Saviu combines
 
 Three takes on student housing, and one site for keeping up with AI builders.
 
-☁️ **[CloudSublet](https://cloudsublet.com)** (100 beta users) - Sublets for international students at Northwestern, UChicago, UC Berkeley, and Yale. I founded it and built the WeChat Mini Program myself. Reported issues fell 60% between the two beta rounds.
+☁️ **[CloudSublet](https://cloudsublet.com)** (80 beta users) - Sublets for international students at Northwestern, UChicago, UC Berkeley, and Yale. I founded it and built the WeChat Mini Program myself. Two beta rounds covered 122 test scenarios across subletters and seekers.
 
 🔑 **[Rentlet](https://rentlet-nu.web.app/)** (class project) - Sublets and lease takeovers between Northwestern students, with Northwestern-only sign-in and in-app messaging. Built with Firebase. [Source](https://github.com/NateeeXu/rentlet)
 
