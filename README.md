@@ -24,7 +24,7 @@ After a disaster, cell towers go down and the people who most need help are ofte
 
 Three takes on student housing, and one site for keeping up with AI builders.
 
-☁️ **[CloudSublet](https://cloudsublet.com)** (80 beta users) - Sublets for international students at Northwestern, UChicago, UC Berkeley, and Yale. I founded it and built the WeChat Mini Program myself. Two beta rounds covered 122 test scenarios across subletters and seekers.
+☁️ **[CloudSublet](https://cloudsublet.com)** (live on WeChat) - Sublets for international students at Northwestern, UChicago, UC Berkeley, and Yale. I founded it and built the WeChat Mini Program myself; search 寓见云居 in WeChat to try it. It launched in November 2026 after two beta rounds with 80 users and 122 test scenarios.
 
 🔑 **[Rentlet](https://rentlet-nu.web.app/)** (class project) - Sublets and lease takeovers between Northwestern students, with Northwestern-only sign-in and in-app messaging. Built with Firebase. [Source](https://github.com/NateeeXu/rentlet)
 

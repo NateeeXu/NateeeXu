@@ -24,7 +24,7 @@
 
 三个关于学生租房的产品，加一个追踪 AI 构建者动态的网站。
 
-☁️ **[CloudSublet](https://cloudsublet.com)**（80 名内测用户）- 面向留学生的转租平台，覆盖 Northwestern、UChicago、UC Berkeley 和 Yale。由我创立，微信小程序也是我一个人做的。两轮内测覆盖了转租方和求租方的 122 个测试场景。
+☁️ **[CloudSublet](https://cloudsublet.com)**（微信小程序已上线）- 面向留学生的转租平台，覆盖 Northwestern、UChicago、UC Berkeley 和 Yale。由我创立，微信小程序也是我一个人做的，在微信里搜索「寓见云居」就能使用。经过两轮内测（80 名用户、122 个测试场景），于 2026 年 11 月正式上线。
 
 🔑 **[Rentlet](https://rentlet-nu.web.app/)**（课程项目）- Northwestern 学生之间的转租和转让租约平台，只允许 Northwestern 账号登录，支持站内聊天。基于 Firebase。[源码](https://github.com/NateeeXu/rentlet)
 
