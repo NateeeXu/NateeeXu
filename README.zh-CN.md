@@ -30,7 +30,7 @@
 
 🏡 **[安窝 Anwo](https://github.com/NateeeXu/anwo)**（原型）- 面向留学生的校园生活平台：转租、实时聊天、身份验证、地图、校车、二手交易，还能找搭子拼车、一起去 Costco。目前是约 66 所高校的演示数据，支付和短信为模拟实现。
 
-🌟 **[Shining Builders](https://nateeexu.github.io/follow-builders-feishu/)**（每日更新）- 看 AI 构建者在说什么，以及哪些 AI 工具在 GitHub 上涨星最快。在 Zara Zhang 的 [follow-builders](https://github.com/zarazhangrui/follow-builders) 基础上扩展，不依赖付费 API。[源码](https://github.com/NateeeXu/follow-builders-feishu)
+🌟 **[Shining Builders](https://nateeexu.github.io/Shining_Builders/)**（每日更新）- 看 AI 构建者在说什么，以及哪些 AI 工具在 GitHub 上涨星最快。在 Zara Zhang 的 [follow-builders](https://github.com/zarazhangrui/follow-builders) 基础上扩展，每天用 Claude 生成一份当日摘要。[源码](https://github.com/NateeeXu/Shining_Builders)
 
 ---
 

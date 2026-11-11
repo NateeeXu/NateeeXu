@@ -30,7 +30,7 @@ Three takes on student housing, and one site for keeping up with AI builders.
 
 🏡 **[Anwo 安窝](https://github.com/NateeeXu/anwo)** (prototype) - A campus life platform for international students: sublets, real-time chat, identity verification, maps, shuttles, a secondhand market, and a way to find people for carpools or Costco runs. Runs on demo data for about 66 campuses, with payments and SMS mocked.
 
-🌟 **[Shining Builders](https://nateeexu.github.io/follow-builders-feishu/)** (updated daily) - See what AI builders are saying and which AI tools are gaining stars on GitHub. Extends Zara Zhang's [follow-builders](https://github.com/zarazhangrui/follow-builders) and runs without paid APIs. [Source](https://github.com/NateeeXu/follow-builders-feishu)
+🌟 **[Shining Builders](https://nateeexu.github.io/Shining_Builders/)** (updated daily) - See what AI builders are saying and which AI tools are gaining stars on GitHub. Extends Zara Zhang's [follow-builders](https://github.com/zarazhangrui/follow-builders) and adds a daily Claude summary of what builders are saying. [Source](https://github.com/NateeeXu/Shining_Builders)
 
 ---
 
