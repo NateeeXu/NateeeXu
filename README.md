@@ -22,13 +22,11 @@ After a disaster, cell towers go down and the people who most need help are ofte
 
 ## ⭐ Featured projects
 
-Three takes on student housing, and one site for keeping up with AI builders.
+Two takes on student housing, and one site for keeping up with AI builders.
 
 ☁️ **[CloudSublet](https://cloudsublet.com)** (live on WeChat) - Sublets for international students at Northwestern, UChicago, UC Berkeley, and Yale. I founded it and built the WeChat Mini Program myself; search 寓见云居 in WeChat to try it. It launched in November 2026 after two beta rounds with 80 users and 122 test scenarios.
 
 🔑 **[Rentlet](https://rentlet-nu.web.app/)** (class project) - Sublets and lease takeovers between Northwestern students, with Northwestern-only sign-in and in-app messaging. Built with Firebase. [Source](https://github.com/NateeeXu/rentlet)
-
-🏡 **[Anwo 安窝](https://github.com/NateeeXu/anwo)** (prototype) - A campus life platform for international students: sublets, real-time chat, identity verification, maps, shuttles, a secondhand market, and a way to find people for carpools or Costco runs. Runs on demo data for about 66 campuses, with payments and SMS mocked.
 
 🌟 **[Shining Builders](https://nateeexu.github.io/Shining_Builders/)** (updated daily) - See what AI builders are saying and which AI tools are gaining stars on GitHub. Extends Zara Zhang's [follow-builders](https://github.com/zarazhangrui/follow-builders) and adds a daily Claude summary of what builders are saying. [Source](https://github.com/NateeeXu/Shining_Builders)
 

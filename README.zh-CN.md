@@ -22,13 +22,11 @@
 
 ## ⭐ 代表项目
 
-三个关于学生租房的产品，加一个追踪 AI 构建者动态的网站。
+两个关于学生租房的产品，加一个追踪 AI 构建者动态的网站。
 
 ☁️ **[CloudSublet](https://cloudsublet.com)**（微信小程序已上线）- 面向留学生的转租平台，覆盖 Northwestern、UChicago、UC Berkeley 和 Yale。由我创立，微信小程序也是我一个人做的，在微信里搜索「寓见云居」就能使用。经过两轮内测（80 名用户、122 个测试场景），于 2026 年 11 月正式上线。
 
 🔑 **[Rentlet](https://rentlet-nu.web.app/)**（课程项目）- Northwestern 学生之间的转租和转让租约平台，只允许 Northwestern 账号登录，支持站内聊天。基于 Firebase。[源码](https://github.com/NateeeXu/rentlet)
-
-🏡 **[安窝 Anwo](https://github.com/NateeeXu/anwo)**（原型）- 面向留学生的校园生活平台：转租、实时聊天、身份验证、地图、校车、二手交易，还能找搭子拼车、一起去 Costco。目前是约 66 所高校的演示数据，支付和短信为模拟实现。
 
 🌟 **[Shining Builders](https://nateeexu.github.io/Shining_Builders/)**（每日更新）- 看 AI 构建者在说什么，以及哪些 AI 工具在 GitHub 上涨星最快。在 Zara Zhang 的 [follow-builders](https://github.com/zarazhangrui/follow-builders) 基础上扩展，每天用 Claude 生成一份当日摘要。[源码](https://github.com/NateeeXu/Shining_Builders)
 
